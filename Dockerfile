@@ -1,4 +1,4 @@
-FROM node:24.18.0-trixie-slim
+FROM node:24.19.0-trixie-slim
 
 RUN mkdir /usr/src/goof
 RUN mkdir /tmp/extracted_files
